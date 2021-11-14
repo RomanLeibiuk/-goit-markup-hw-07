@@ -877,7 +877,7 @@ body {
   margin: 0;
   margin-bottom: 4px;
 
-  color: var(title-text-color);
+  color: var(--title-text-color);
   font-weight: 700;
   font-size: 18px;
   line-height: 2;
